@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow.keras.utils as ku
+from tensorflow.keras import utils as ku
 from wordcloud import WordCloud
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.layers import Embedding, LSTM, Dense, Dropout, Bidirectional
