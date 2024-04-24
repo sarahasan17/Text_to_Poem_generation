@@ -1,4 +1,4 @@
-# Text to Poem generation/ Building the Text Generator: An Elegant Journey
+# Text to Poem generation
 
 ## Step 1: Import Necessary Libraries
 
